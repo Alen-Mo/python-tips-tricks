@@ -1,0 +1,2 @@
+# On exclut la journalisation produite par nos traitements Python
+log/
