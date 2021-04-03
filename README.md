@@ -8,7 +8,7 @@ Some Tips and Tricks about Python.
 
 ## Useful documents
 
-...
+* [BeautifulSoup](./scripts/XmlParser.py)
 
 ## Useful links
 
