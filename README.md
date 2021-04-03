@@ -8,11 +8,11 @@ Some Tips and Tricks about Python.
 
 ## Useful documents
 
-* [BeautifulSoup](./scripts/XmlParser.py)
+* [BeautifulSoup overview](./scripts/XmlParser.py) - An overview of BeautifulSoup library, in order to parse XML files.
 
 ## Useful links
 
-...
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ## Build with
 
