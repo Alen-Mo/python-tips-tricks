@@ -1,2 +1,5 @@
 # On exclut la journalisation produite par nos traitements Python
 log/
+
+# On exclut les fichiers générés pour la BDD PostgreSQL
+db/
