@@ -1,0 +1,28 @@
+version: "3.5"
+
+services:
+
+  adventureworks:
+    image: postgres:10
+    volumes:
+      - "./csv:/tmp/csv"
+      - "./docker_postgres_init.sql:/docker-entrypoint-initdb.d/install.sql"
+      - "./db:/var/lib/postgresql/data"
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: adventureworks
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: ${ADVENTUREWORKS_PASSWORD}
+
+  pgadmin:
+    depends_on:
+      - adventureworks
+    image: dpage/pgadmin4
+    ports:
+      - "3001:80"
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: elie.vandycke@elosi.com
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_PASSWORD}
