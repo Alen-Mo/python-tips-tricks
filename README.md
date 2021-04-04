@@ -38,6 +38,12 @@ Some Tips and Tricks about Python.
 * [SQLite](https://www.sqlitetutorial.net/sqlite-python/insert/) with Python (some stuffs [here](https://zestedesavoir.com/tutoriels/1294/des-bases-de-donnees-en-python-avec-sqlite3/) and [more](https://docs.python.org/2/library/sqlite3.html))
 * [Unit Testing](https://docs.python.org/fr/3/library/unittest.html)
 * [Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/232721-apprehendez-les-classes)
+* [Plotly](https://dash.plotly.com/) - An advanced Python analytics library
+* [Geoplotlib](https://github.com/andrea-cuttone/geoplotlib) - Python toolbox for visualizing geographical data and making maps
+* [Gleam](https://github.com/dgrtwo/gleam) - Convert your graphs into amazing web apps using just Python code
+* [ggplot](https://github.com/tidyverse/ggplot2) - An advanced Python analytics library
+* [Bokeh](https://docs.bokeh.org/en/latest/) - Generate a visualization that is friendly for web interfaces and browsers
+* [Missingo](https://github.com/ResidentMario/missingno) - Helps you to find all the missing values and display them
 
 ## Build with
 
