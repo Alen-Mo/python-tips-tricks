@@ -12,6 +12,7 @@ Some Tips and Tricks about Python.
 * [VB inspection](./scripts/Oletools.py) - An overview Oletools library, in order to inspect VB code
 * [ETL Job](./scripts/etl_job.py) - An overview of Pyspark library
 * [Data Analysis with Sweetwiz](./scripts/sample.py) - an overview of Sweetviz library
+* [Missingo](./scripts/missingno.py) - Helps you to find all the missing values and display them
 
 ## Useful links
 
@@ -43,7 +44,6 @@ Some Tips and Tricks about Python.
 * [Gleam](https://github.com/dgrtwo/gleam) - Convert your graphs into amazing web apps using just Python code
 * [ggplot](https://github.com/tidyverse/ggplot2) - An advanced Python analytics library
 * [Bokeh](https://docs.bokeh.org/en/latest/) - Generate a visualization that is friendly for web interfaces and browsers
-* [Missingo](https://github.com/ResidentMario/missingno) - Helps you to find all the missing values and display them
 
 ## Build with
 
@@ -117,6 +117,24 @@ pip install sweetviz
 ![Analysis](./images/sweetviz-analyse.png)
 
 ![Comparaison](./images/sweetviz-comparaison.png)
+
+## Get started with Missingno
+
+Sweetviz is an open-source Python library that generates visualizations to kickstart EDA (Exploratory Data Analysis).
+This project aims to test Sweetviz library in data quality audit.
+
+1. Install missingno with pip
+
+```bat
+pip install missingno
+```
+
+2. Clone this project
+3. Execute missingno.py
+
+### Screenshots
+
+![Heatmap](./images/missingno-adventureworks-product-matrix.png)
 
 ## Contributing
 
