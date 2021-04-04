@@ -18,6 +18,23 @@ Some Tips and Tricks about Python.
 * [OleTools](http://www.decalage.info/python/oletools) - Tools developed in Python to analyze OLE files and Microsoft Office files
 * [PySpark](https://pypi.org/project/pyspark/) - Apache Spark Python API
 * [How to create a simple ETL job locallu with PySpark, Postgresql and Docker](https://itnext.io/how-to-create-a-simple-etl-job-locally-with-pyspark-postgresql-and-docker-ea53cd43311d?gi=a2a94c46582d)
+* [Design Patterns](https://refactoring.guru/design-patterns/python) - The catalog of Python examples
+* Play with [TQDM](https://tqdm.github.io/), a smart progress meter
+
+## Tomorrow I will learn about Python
+
+* [ETL in Python](https://towardsdatascience.com/how-to-write-etl-operations-in-python-baffbceeadf4)
+* [Graphing example from SQLite](https://pythonprogramming.net/graphing-from-sqlite-database/) - Graphing in Python
+* [Seaborn](http://seaborn.pydata.org/) - Statistical data vizualization
+* [DataQuest](https://www.dataquest.io/blog/python-data-visualization-libraries/) - Comparing 7 tools for dataviz in Python
+* [Scrapy](https://scrapy.org/) - An open source and collaborative framework for extracting the data you need from websites
+* [Records](https://github.com/kennethreitz-archive/records) - A very simple library for making raw SQL queries to most relational databases
+* [Django](https://www.djangoproject.com/) - Python Web framework
+* Build Your First [Python Chatbot](https://dzone.com/articles/python-chatbot-project-build-your-first-python-pro) Project
+* [Python Chatbot Project](https://data-flair.training/blogs/python-chatbot-project/)
+* [SQLite](https://www.sqlitetutorial.net/sqlite-python/insert/) with Python (some stuffs [here](https://zestedesavoir.com/tutoriels/1294/des-bases-de-donnees-en-python-avec-sqlite3/) and [more](https://docs.python.org/2/library/sqlite3.html))
+* [Unit Testing](https://docs.python.org/fr/3/library/unittest.html)
+* [Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/232721-apprehendez-les-classes)
 
 ## Build with
 
