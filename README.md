@@ -11,6 +11,7 @@ Some Tips and Tricks about Python.
 * [BeautifulSoup overview](./scripts/XmlParser.py) - An overview of BeautifulSoup library, in order to parse XML files.
 * [VB inspection](./scripts/Oletools.py) - An overview Oletools library, in order to inspect VB code
 * [ETL Job](./scripts/etl_job.py) - An overview of Pyspark library
+* [Data Analysis with Sweetwiz](./scripts/sample.py) - an overview of Sweetviz library
 
 ## Useful links
 
@@ -20,6 +21,8 @@ Some Tips and Tricks about Python.
 * [How to create a simple ETL job locallu with PySpark, Postgresql and Docker](https://itnext.io/how-to-create-a-simple-etl-job-locally-with-pyspark-postgresql-and-docker-ea53cd43311d?gi=a2a94c46582d)
 * [Design Patterns](https://refactoring.guru/design-patterns/python) - The catalog of Python examples
 * Play with [TQDM](https://tqdm.github.io/), a smart progress meter
+* [Sweetviz](https://pypi.org/project/sweetviz/) - Open-source Pyhton library for EDA
+* [Sweetviz Repo](https://github.com/fbdesignpro/sweetviz)
 
 ## Tomorrow I will learn about Python
 
@@ -42,6 +45,7 @@ Some Tips and Tricks about Python.
 * [Docker](https://www.docker.com/) - Set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers
 * [Git](https://git-scm.com) - Open source distributed version control system
 * [PostgreSQL](https://www.postgresql.org) - Open source object-relational database system
+* [Mockaroo](https://www.mockaroo.com/) - Random Data Generator and API Mocking Tool
 
 ## Get started with Oletools
 
@@ -67,7 +71,7 @@ Python Oletools.py
 The script will expose in the /out/result.log folder the VBA contents of each scanned file.
 Analysis logs are available in the /log/vba-inspect.log folder
 
-## get started with PySpark
+## Get started with PySpark
 
 1. Install Python (if you haven't already)
 2. Clone this repository
@@ -85,6 +89,28 @@ pip install pypandoc
 5. Execute etl_job.py
 
 The script will load a CSV file (370 000 rows) into a PostgreSQL database.
+
+## Get started with Sweetviz
+
+![Sweetviz](./images/sweetviz-logo-128.png)
+
+Sweetviz is an open-source Python library that generates visualizations to kickstart EDA (Exploratory Data Analysis).
+This project aims to test Sweetviz library in data quality audit.
+
+1. Install sweetviz with pip
+
+```bat
+pip install sweetviz
+```
+
+2. Clone this project
+3. Execute sample.py
+
+### Screenshots
+
+![Analysis](./images/sweetviz-analyse.png)
+
+![Comparaison](./images/sweetviz-comparaison.png)
 
 ## Contributing
 
