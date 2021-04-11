@@ -2,7 +2,7 @@
 
 Some Tips and Tricks about Python.
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 ![Python](./images/python-logo-256.png)
 
@@ -25,7 +25,7 @@ Some Tips and Tricks about Python.
 * [Sweetviz](https://pypi.org/project/sweetviz/) - Open-source Pyhton library for EDA
 * [Sweetviz Repo](https://github.com/fbdesignpro/sweetviz)
 
-## Tomorrow I will learn about Python
+## Tomorrow I will learn
 
 * [ETL in Python](https://towardsdatascience.com/how-to-write-etl-operations-in-python-baffbceeadf4)
 * [Graphing example from SQLite](https://pythonprogramming.net/graphing-from-sqlite-database/) - Graphing in Python
