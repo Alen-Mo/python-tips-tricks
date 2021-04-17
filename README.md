@@ -13,6 +13,7 @@ Some Tips and Tricks about Python.
 * [ETL Job](./scripts/etl_job.py) - An overview of Pyspark library
 * [Data Analysis with Sweetwiz](./scripts/sample.py) - an overview of Sweetviz library
 * [Missingo](./scripts/missingno.py) - Helps you to find all the missing values and display them
+* [Check Access/Modification/Creation time](./scripts/FileProperties.py) - get Acces/Modification/Creation time of files
 
 ## Useful links
 
