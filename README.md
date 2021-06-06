@@ -25,6 +25,7 @@ Some Tips and Tricks about Python.
 * Play with [TQDM](https://tqdm.github.io/), a smart progress meter
 * [Sweetviz](https://pypi.org/project/sweetviz/) - Open-source Pyhton library for EDA
 * [Sweetviz Repo](https://github.com/fbdesignpro/sweetviz)
+* [Twitter Bot with Tweepy](https://realpython.com/twitter-bot-python-tweepy/)
 
 ## Tomorrow I will learn
 
@@ -45,6 +46,7 @@ Some Tips and Tricks about Python.
 * [Gleam](https://github.com/dgrtwo/gleam) - Convert your graphs into amazing web apps using just Python code
 * [ggplot](https://github.com/tidyverse/ggplot2) - An advanced Python analytics library
 * [Bokeh](https://docs.bokeh.org/en/latest/) - Generate a visualization that is friendly for web interfaces and browsers
+* [Tweepy](https://github.com/tweepy/tweepy) - Open source Python package that gives you a very convenient way to access the Twitter API with Python
 
 ## Build with
 
